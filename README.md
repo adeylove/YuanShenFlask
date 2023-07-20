@@ -1,0 +1,3 @@
+# YuanShenFlask
+YuanShenFlask是一个基于Flask框架开发的原神卡池统计的Web查询.
+
